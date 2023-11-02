@@ -1,3 +1,21 @@
+# React-todo-app
+
+## A project based on YouTube video tutorials from a [Давай Попробуем: JavaScript](https://www.youtube.com/watch?v=yUxJ9GU32do&list=LL&index=7&t=263s).
+
+## Technologies:
+
+#### - HTML
+
+#### - CSS
+
+#### - JavaScript
+
+#### - React
+
+## Demo: https://alena2020.github.io/react-todo-app/
+
+##📋
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
