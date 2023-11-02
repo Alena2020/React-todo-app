@@ -33,3 +33,27 @@ input {
   color: #222222;
   cursor: pointer;
 }
+
+.todo__item{
+  position: absolute;
+  cursor: move;
+  min-width: 215px;
+  color: black;
+  padding: 1em;
+  border-radius: 5px;
+}
+
+.delete {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.delete:hover {
+  color: red;
+  border: 2px solid maroon;
+  border-radius: 50%;
+}
